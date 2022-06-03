@@ -15,6 +15,7 @@ The MechaCar dataset contains a sample size of 50 prototypes measuring the miles
 
 ### Linear Regression
 R script was applied to the dataset on several variables to get the following coefficients.
+![linear-regression](
 
 ### Summary of Linear Regression model
 
